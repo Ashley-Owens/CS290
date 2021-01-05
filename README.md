@@ -8,5 +8,5 @@ In order to access your Node server, please follow these steps:
     - Complete the Duo two-step login process.   
     
 2. SSH into OSU's flip servers using VS Code.
-3. Make any changes you would like.   
-4. Your server is up and running on port 4686. It can be accessed via the following link: http://flip1.engr.oregonstate.edu:4686  
+3. The Node files are contained within your CS290 folder on flip. Make any changes you would like.   
+4. Your server is up and running on port 4686. It can be accessed via the following link: http://flip1.engr.oregonstate.edu:4686 while you are connected to OSU's VPN.
